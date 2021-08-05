@@ -1,20 +1,21 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Saddle Point'
+date: 2021-8-6
+permalink: /problems/2021/08/saddle-point/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - problem
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+## Problem
 
-Headings are cool
-======
+For any matrix without same entry values, prove that there is a saddle point, which means a place which is both a row minimum and a column maximum.
 
-You can have many headings
-======
+## Sol
 
-Aren't headings cool?
-------
+Find the one with the maximal value among all row minimums.
+
+Find the one with the minimal value among all column maximums.
+
+If there's no saddle points, then they are two different places.
+
+Considering the four entries within the rows and columns of these places leads to a contradiction.
