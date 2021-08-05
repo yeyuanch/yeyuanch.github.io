@@ -1,6 +1,6 @@
 ---
 title: 'Saddle Point'
-date: 2021-8-6
+date: 2021-08-06
 permalink: /problems/2021/08/saddle-point/
 tags:
   - problem
