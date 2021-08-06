@@ -4,7 +4,10 @@ date: 2021-08-06
 permalink: /problems/2021/08/saddle-point/
 tags:
   - problem
+  - game theory
 ---
+
+This is a interesting problem in the game theory course.
 
 ## Problem
 
