@@ -11,16 +11,18 @@ This is a interesting problem in the game theory course.
 
 ## Problem
 
-For any matrix without same entry values, prove that there is a saddle point, which means a place which is both a row minimum and a column maximum.
+For any matrix without same entry values, prove that there is a saddle point, which means a place which is both a row minimum and a column maximum, where there is a saddle point in every $2$ by $2$ submatrix.
 
 ## Sol
 
-Find the one with the maximal value among all row minimums.
+Find $A$ with the maximal value among all row minimums.
 
-Find the one with the minimal value among all column maximums.
+If there's no saddle points, find its column maximum $B$.
 
-If there's no saddle points, then they are two different places.
+Then consider the new row minimum $C$. We know $C<A$.
 
-Then consider the four entries within the rows and columns of these places.
+Then find $D$ to construct a $2$ by $2$ submatrix.
 
-There's a contradiction like $A>B>C>D>A$.
+We can show that $A<B>C<D>A$, which has no saddle point.
+
+Therefore, the statement is true.
