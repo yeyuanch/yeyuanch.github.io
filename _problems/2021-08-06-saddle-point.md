@@ -21,4 +21,6 @@ Find the one with the minimal value among all column maximums.
 
 If there's no saddle points, then they are two different places.
 
-Considering the four entries within the rows and columns of these places leads to a contradiction.
+Then consider the four entries within the rows and columns of these places.
+
+There's a contradiction like $A>B>C>D>A$.
