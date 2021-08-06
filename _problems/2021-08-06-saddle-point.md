@@ -23,6 +23,6 @@ Then consider the new row minimum $C$. We know $C<A$.
 
 Then find $D$ to construct a $2$ by $2$ submatrix.
 
-We can show that $A<B>C<D>A$, which has no saddle point.
+We can show that $A < B > C < D > A$, which has no saddle point.
 
 Therefore, the statement is true.
