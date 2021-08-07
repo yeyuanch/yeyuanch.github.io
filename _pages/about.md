@@ -20,4 +20,5 @@ About the website
 ------
 My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages. 
 
-To construct a website you can fork [this repository](https://github.com/academicpages/academicpages.github.io) and do modifications on the template.
+To construct a website you can fork [this repository](https://github.com/academicpages/academicpages.github.io) and do modifications on the template, and then do modifications with the help of [this guide](https://academicpages.github.io/markdown/) and other instructions for the template.
+
