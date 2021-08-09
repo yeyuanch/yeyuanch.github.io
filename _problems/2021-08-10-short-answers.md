@@ -10,13 +10,9 @@ These are short answers (and my ideas when trying to work out the problems) for 
 
 \"*" means fun in the list. "U" means I didn't finish writing the solution.
 
-[TOC]
-
-
-
 ## Problem 39
 
-We find $L$ with dishes one by one. At one round, we can compare any two dishes. When more than a half prefers one dish, then it beats the other. We can find one dish beats at least a half of other dishes. We add this in $L$ and delete this and the dishes $d$ beaten by it. Now recursively do this, by $1024=2^{10}$, we can terminate in $|L| \le 10$.
+We find $L$ with dishes one by one. At one round, we can compare any two dishes. When more than a half prefers one dish, then it beats the other. We can find one dish beats at least a half of other dishes. We add this in $L$ and delete this and the dishes $d$ beaten by it. Now recursively do this, by $1024=2^{10}$, we can terminate in $\| L \| \le 10$.
 
 ## Problem 38 (Expectation, *)
 
