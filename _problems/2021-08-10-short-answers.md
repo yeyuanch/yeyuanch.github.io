@@ -84,3 +84,23 @@ To prove the optimality we consider the circumference. A circle with radius < $1
 If yes, WLOG we can suppose the period is a multiple of $100$, so we can suppose the sequence is started from $f(0)=0$. We soon find that $f(i)$ is the parity of number of $1$s in the binary expansion of $i$. Then if for $i \geq 2^k$ there's a period $t=1...$ with $p$ digits, $p<<k$. We consider two $k$-digit numbers $10...0$ and $10...010...0$ with the last $p$ digits $10...0$, then it's easy to see there's a contrast. The official solution gives a stronger conclusion.
 
 ## Problem 24 (*)
+
+## Problem 23
+
+Surprisingly, yes. Consider the middle point of the ray, by expand the reflection, it must be on one of four grids, decided by the parity of horizontal and vertical reflections. To get a grid, using four points is enough, so we need at most $16$ in total.
+
+## Problem 22
+
+We consider to decrease the length of the number in half (ignoring $0$s in the end): for the first half ($ \lfloor n/2 \rfloor $), give the same number; for the second half, give the complement, then the length after one turn is at most $\lfloor n/2 \rfloor + 1$. We can use $O(logn)$ turns to decrease it into a one or two digit number. Then it is easy to solve the restricted problem in $O(1)$ turns.
+
+## Problem 21
+
+To locate a direction which can go within $1m$ to the truth needs $O(1/D)$ radius and thus needs $\Omega(D)$ tries to search at that distance. But we can balance the accuracy and the tries used since we can use $O(\sqrt{D})$ tries to get the accuracy within $O(\sqrt{D})$ and then after $D$ steps the remaining distance is in $O(\sqrt{D})$. Then recursively solve it.
+
+## Problem 20 (easy)
+
+Yes. The idea is that, for the groups the president will win, make it balanced; for the groups the opposite will win, make it all opposite. Then for the case $n=3^m$, we only need $2^m$ supporters, so the number of supporters can be in $o(n)$. This problem is similar and we only need to divide it carefully.
+
+## Problem 19 (easy)
+
+It's trivial that we can query these $n$ numbers directly. On the opposite, at least we need to cut all diagonal values with its $4$ opposite values, which means the edges of the submatrices must cover the small squares surrounding them (for $(1,1)$ and $(n,n)$ we need one square containing them, so the result is the same), but one square can at most intersect $4$ edges of these small squares, which means we need $n$ queries at least.
