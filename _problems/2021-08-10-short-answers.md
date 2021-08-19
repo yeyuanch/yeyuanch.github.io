@@ -1,5 +1,5 @@
 ---
-title: 'Short answers for the puzzle TOAD'
+title: 'Short answers for the Puzzle TOAD'
 date: 2021-08-10
 permalink: /problems/2021/10/short-ans/
 tags:
@@ -63,7 +63,7 @@ An interesting construction problem. A simple approach is $1\ 1\ 1\ 1\ 1\ 1$ $\r
 
 Of course we can induction to get the conclusion, but informally we can think this: the answer will be yes if someone goes to the last person's seat, and the answer will be no if someone goes to seat 17. The probabilities must be the same in any random move. Then the answer is $1/2$.
 
-## Problem 28 (*)
+## Problem 28 (hard,*)
 
 A short and beautiful proof is given by solution. Consider $n$ walkers, for the edges with $1,2,...,m$, swap the walkers on the edge in turn. Then after $m$ turns the $n$ walkers walks $2m$ in total, which shows that at least one walks with distance $2m/n$.
 
@@ -85,6 +85,8 @@ If yes, WLOG we can suppose the period is a multiple of $100$, so we can suppose
 
 ## Problem 24 (*)
 
+A simpler version is to choose from $n$ numbers so that the sum is divided by $n$. This is a special case for it. But in this problem the solution is similar. We need a new definition of "residue" by listing $a_1...a_n$ and $b_1...b_n$, suppose the sum of array $a$ is not less than $b$, then define the residue $r_k= \sum_{i=1}^{k}b_i - \sum_{i=1}^{l} a_i$, $l$ is chosen to make $r_k$ smallest but non-negative. Then there's some $k$ such that $r_k=0$, or there are two $r_k$ being the same. Both situations leads to a solution.
+
 ## Problem 23
 
 Surprisingly, yes. Consider the middle point of the ray, by expand the reflection, it must be on one of four grids, decided by the parity of horizontal and vertical reflections. To get a grid, using four points is enough, so we need at most $16$ in total.
@@ -101,6 +103,73 @@ To locate a direction which can go within $1m$ to the truth needs $O(1/D)$ radiu
 
 Yes. The idea is that, for the groups the president will win, make it balanced; for the groups the opposite will win, make it all opposite. Then for the case $n=3^m$, we only need $2^m$ supporters, so the number of supporters can be in $o(n)$. This problem is similar and we only need to divide it carefully.
 
-## Problem 19 (easy)
+## Problem 19 (easy,*)
 
 It's trivial that we can query these $n$ numbers directly. On the opposite, at least we need to cut all diagonal values with its $4$ opposite values, which means the edges of the submatrices must cover the small squares surrounding them (for $(1,1)$ and $(n,n)$ we need one square containing them, so the result is the same), but one square can at most intersect $4$ edges of these small squares, which means we need $n$ queries at least.
+
+## Problem 18
+
+## Problem 17
+
+## Problem 16
+
+## Problem 15
+
+**(a)** The last one can report the parity of the number of white hats of the first $n-1$. So they can guarantee there's only one elimination.
+
+**(b)** Informally, let's consider a error correcting code, then do this: when the other digits is in the code, guess the opposite (its neighbor). They are eliminated only when the situation is in the code or the situation is not in the neighbors. The solution gives analysis about the winning probability.
+
+**(c)** Consider all possible situations, if for one situation the first response is the quickest, then change the responder's hat color will make him wrong.
+
+With extra information, one can induction that, at time $t$, "there's at least $t$ black hats" is a common knowledge, so the ones with black hats will know it if they only see $t-1$ black hats, they need to report. Then the ones with white hats (if exist) report.  
+
+## Problem 14 (hard,*)
+
+A simpler question is that, when there are only A and B, using one question to know the proper restroom. This is done by asking one what's the other's answer, which will be always false.
+
+Now we want to avoid asking C using one question. The question in solution is "For the two other people, who is more likely to tell truth?" Then the one not in the answer must be A or B. Then ask the problem above.
+
+## Problem 13
+
+## Problem 12
+
+Think a configuration, where they are on the same height, and at least one is on a local minimum/maximum. Then for them both going up or down, they have two or four choices, except the two configurations showing the starting and ending situations. Now we can certainly build a graph. The starting and ending nodes have degree 1, while others have degree 2 or 4. Then they must be in the same component since a component cannot a single odd-degree node, which means they can achieve this.
+
+## Problem 11
+
+## Problem 10 (hard)
+
+A famous question. The strategy is, everyone first find his table, look at the card and continually go to the table given by the card until he find his card or he fails. 
+
+Then we can see that, although everyone has a winning probability $1/2$, their probabilities are correlated by the length of cycles in the permutation! We can calculate the probability for having a cycle > $1/2$ size, which is easy, and we will find the winning probability high.
+
+## Problem 9
+
+**(a)** Notice that if two ants intersect, then they going through each other gives the same situation. So we can simply calculate the time by one ant from one side to the other.
+
+**(b)** This is similar as above but more tricky. First, from above we can see that they will end up in the same location (but there may be a permutation). Also we know that the relative location don't change for two ants. Let the name "Alice" pass on as well when two ants intersect. Then we can see "Alice" will be the name of the original Alice if it passes with $kn$ times. Calculating this can know that if Alice goes clockwise, then there are $0$ or $n/2$ (when $n$ is even) going anti-clockwise. So we can calculate the probability.
+
+**(c)** This is easy, but notice the corner cases in which Alice can infect nobody.
+
+## Problem 8 (easy,*)
+
+After problem 38, it seems to be easy. We know the (weighted) expectation may be exactly $H_n$ if we cleverly assign every path's weight and let every node on layer $i$ be passed with probability equally $1/i$. The weight assignment of every path can be done by an assignment on every edge with multiplication (consider the case only going left or right on the pascal triangle).
+
+## Problem 7 (*)
+
+The answer is yes since $k<n$. The construction for $n$ is simple. When $k<n$, consider the boundary length of the garbage area. We notice that the procedure won't increase it! Then we can notice that it will not exceed $4n$ with $k<n$.
+
+## Problem 6
+
+First we should prove that, the maximum possible candy number of everybody is bounded. Then we should prove that, at least one lowest value will increase if it is not equally divided. After that, we can reach the conclusion.
+
+## Problem 5
+
+## Problem 4 (easy)
+
+Consider $\sum 1/2^{a_i}$. We can prove that, by equal division, this value can always be $\geq 1$ if the original one $\geq 1$. In contrast, by deleting the set with more value, this value can always be $< 1$ if the original one $< 1$. Then we can reach the conclusion.
+
+## Problem 3
+
+
+
