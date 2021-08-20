@@ -171,5 +171,16 @@ Consider $\sum 1/2^{a_i}$. We can prove that, by equal division, this value can 
 
 ## Problem 3
 
+Consider we have found singular states $a_1<...<a_k$, the next singular state $a_{k+1}$ is $a_k+a_l$, where $l$ is the smallest number that $a_k$ can be chosen after $a_l$. On $a_k<b<a_{k+1}$, the first one can take the chips to $a_k$ left to win if $b \leq a_k+a_{l-1}$. Otherwise take it to $a_k+a_{l-1}$ and win using two steps. On $a_{k+1}$, the first one can't take $\geq a_l$. Then the second one can guarantee that he can take the last chip of first $a_l$, then the last $a_k$.
 
+## Problem 2
 
+Consider the case when $n=a \times 2^b$, $a>1$ is odd. Then for two lights with distance $2^b$, Merlin can always let them be one on and the other off. If $n$ is a power of $2$, then we want to induction by letting the opposite lights be of the same number. Consider "different" as "off", "same" as "on", then we can actually do induction! After that, we see opposite lights as a whole and operate simultaneously, then we see the conclusion can be reached by induction.
+
+## Problem 1
+
+$(a)$ Consider they form a queue. Every time, ask the head of the queue about the one chosen, then pop. If yes, add $1$ to the counter; if no, add $-1$. If the chosen one is with counter $0$, kick him and choose the head with counter $1$.
+
+$(b)$ The managers can pretend to have two groups of engineers with the same size and say that the others are managers. Then by symmetry we know it can't be identified.
+
+$(c)$ (solution: may not)
