@@ -1,7 +1,7 @@
 ---
 title: 'Short answers for the Puzzle TOAD'
-date: 2021-08-10
-permalink: /problems/2021/10/short-ans/
+date: 2021-09-10
+permalink: /problems/2021/09/short-ans/
 tags:
   - problem
 ---
