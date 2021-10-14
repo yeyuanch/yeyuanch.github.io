@@ -10,15 +10,11 @@ redirect_from:
 
 ## About me
 
-I am a student at [IIIS](https://iiis.tsinghua.edu.cn), Tsinghua. I am studying now.
+I am a student at Yao Class, Tsinghua.
 
-Recently I am playing [arcaea](https://twitter.com/arcaea_en) and [genshin impact](https://genshin.mihoyo.com/en/).
-
-My interest is mainly about sleeping.
+I am studying now.
 
 About the website
 ------
 My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages. 
-
-To construct a website you can fork [this repository](https://github.com/academicpages/academicpages.github.io) and do modifications on the template, and then do modifications with the help of [this guide](https://academicpages.github.io/markdown/) and other instructions for the template.
 
