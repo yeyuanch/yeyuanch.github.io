@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /resume
+  - /teach
 ---
 
 <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'>

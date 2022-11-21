@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a undergraduate senior student in [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University. I have a broad interest in theoretical computer science and mathematics, especially in algorithms, combinatorics, and theory of computation.
 
-During the spring and summer of 2022, I was fortunate to visit the [theory group](https://cse.engin.umich.edu/research/research-areas/theory-of-computation/) of UMich, supervised by Prof.[Seth Pettie](https://web.eecs.umich.edu/~pettie/).
+During the spring and summer of 2022, I was fortunate to visit the [theory group](https://cse.engin.umich.edu/research/research-areas/theory-of-computation/) of UMich, supervised by Prof. [Seth Pettie](https://web.eecs.umich.edu/~pettie/).
 
 I love theoretical thinking, for both research problems and IMO-style quizzes.
 
