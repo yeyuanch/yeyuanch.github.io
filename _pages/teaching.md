@@ -7,5 +7,10 @@ redirect_from:
   - /teach
 ---
 
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'>
+## Teaching
 
+- **Teaching Assistant, Design and Analysis of Algorithms**
+
+  Fall 2022, Tsinghua University
+
+  Graduate-Level algorithm course, instructed by Prof. Ran Duan.
