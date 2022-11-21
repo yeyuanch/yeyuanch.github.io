@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Benyu Wang"
-  avatar           : "waifu.png"
+  avatar           : # "waifu.png"
   bio              : "I'm studying..."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "wbyyui@gmail.com"
+  email            : "benyuw19@gmail.com"
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
