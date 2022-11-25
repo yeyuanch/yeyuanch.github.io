@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "wbyyui.github.io"
+title                    : "Benyu Wang"
 title_separator          : "-"
 name                     : &name "wbyyui"
 description              : &description "student"
