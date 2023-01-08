@@ -6,6 +6,6 @@ tags:
   - blog post
 ---
 
-It is much easier to build a site with templates and on github than writing codes from scratch. And I think the template makes my website looks clear.
+Here is the archive for course projects I have done.
 
-The site is still in progress. Therefore, now the site isn't with many differences from the original template. I hope I can write more in the future. I want to add something new about me, and (if possible) my projects.
+[CV](/../files/cv.pdf)
