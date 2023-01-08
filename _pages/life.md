@@ -7,13 +7,21 @@ author_profile: true
 
 This page is still under construction.
 
+### Food
+
+Everything local in China, especially food in Shandong, Hunan and Shanghai.
+
+Everything non-Chinese in the U.S., especially burgers, Japanese food, and Indian food.
+
+Fried chicken in KFC, which is the most consistent and delicious thing in China and in the US.
+
 ### Rhythm Games
 
 I am familiar with almost all rhythm games, especially mobile ones.
 
 I am a top-200 player in the game [Arcaea](https://arcaea.lowiro.com/).
 
-See a [screenshot](/../images/testify.jpg) from Arcaea and also a [poster](tusile.png) I made for a series of rhythm game cups in Tsinghua University.
+See my [best score](/../images/testify.jpg) and also my [favorite song](/../images/corps.jpg) from Arcaea and also a [poster](tusile.pdf) I made for a series of rhythm game cups in Tsinghua University.
 
 ### Puzzle Games
 
