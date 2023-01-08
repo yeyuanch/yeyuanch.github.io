@@ -25,15 +25,15 @@ See my [best score](/../images/testify.jpg) and also my [favorite song](/../imag
 
 ### Puzzle Games
 
-14 Variants of Minesweeper
+- 14 Variants of Minesweeper
 
-Patrick's Parabox
++ Patrick's Parabox
 
-Cypher
++ Cypher
 
-Gorogoa & Moncage
++ Gorogoa & Moncage
 
-Tabletop Simulator (?)
++ Tabletop Simulator (?)
 
 ### Animes
 
@@ -49,13 +49,13 @@ Animes I Most Recommend in Order:
 6. Puella Magi Madoka Magica
 7. CLANNAD ~AFTER STORY~
 
-Others I feel like watching:
+Other Really Good Animes:
 
-Urara Meirocho
++ Urara Meirocho
 
-WorldEnd
++ WorldEnd
 
-Bocchi the Rock!
++ Bocchi the Rock!
 
-Angel Beats!
++ Angel Beats!
 
