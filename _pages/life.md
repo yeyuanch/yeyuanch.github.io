@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Life"
+permalink: /life/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'>
+# Life
+
+
 
