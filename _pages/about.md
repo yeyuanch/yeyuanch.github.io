@@ -14,7 +14,7 @@ I am currently a undergraduate senior student in [Yao Class](https://iiis.tsingh
 
 During the spring and summer of 2022, I was fortunate to visit the wonderful [theory group](https://cse.engin.umich.edu/research/research-areas/theory-of-computation/) of UMich and worked closely with [Prof. Seth Pettie](https://web.eecs.umich.edu/~pettie/) and [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/).
 
-I love theoretical thinking, for both research problems and IMO-style quizzes.
+I love theoretical thinking, for both research problems and IMO-style questions, also puzzle games for fun.
 
 ### About my website
 My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages. 
