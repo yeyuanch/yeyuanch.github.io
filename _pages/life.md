@@ -11,7 +11,7 @@ This page is still under construction.
 
 Everything local in China, especially food in Shandong, Hunan and Shanghai.
 
-Everything non-Chinese in the U.S., especially burgers, Japanese food, and Indian food.
+Everything non-Chinese in the US, especially burgers, Japanese food, and Indian food.
 
 Fried chicken in KFC, which is the most consistent and delicious thing in China and in the US.
 
