@@ -31,11 +31,12 @@ Animes I Most Recommend in Order:
 
 1. Steins; Gate & Steins; Gate 0
 2. Violet Evergarden
-3. planetarian ~the reverie of a little planet~
-4. Endro~!
-5. HYOUKA
-6. Puella Magi Madoka Magica
-7. CLANNAD ~AFTER STORY~
+3. From The New World
+4. planetarian ~the reverie of a little planet~
+5. Endro~!
+6. HYOUKA
+7. Puella Magi Madoka Magica
+8. CLANNAD ~AFTER STORY~
 
 Other Really Good Animes:
 
@@ -49,12 +50,13 @@ Other Really Good Animes:
 
 ## Puzzle Games
 
+- IMO (?)
 - 14 Variants of Minesweeper
 
 + Patrick's Parabox
 
 + Cypher
 
-+ Gorogoa & Moncage
++ Gorogoa
 
 + Tabletop Simulator (?)
