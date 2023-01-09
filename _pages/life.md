@@ -19,15 +19,15 @@ Fried chicken in KFC, which is the most consistent and delicious thing in China 
 
 I am familiar with almost all rhythm games, especially mobile ones.
 
-I am a top-200 player in the game [Arcaea](https://arcaea.lowiro.com/).
+See my [best score](/../images/testify.jpg) and also my [favorite song](/../images/corps.jpg) from the game [Arcaea](https://arcaea.lowiro.com/). I am a top-200 player in Arcaea. 
 
-See my [best score](/../images/testify.jpg) and also my [favorite song](/../images/corps.jpg) from Arcaea and also a [poster](/../images/tusile.pdf) I made for a series of rhythm game cups in Tsinghua University.
+Also see a [poster](/../images/tusile.pdf) I made for a series of rhythm game cups in Tsinghua University.
 
 ## Animes
 
 I think I am not typically an expert about animes, but just let me recommend some.
 
-Animes I Most Recommend in Order:
+Animes I most recommend in order:
 
 1. Steins; Gate & Steins; Gate 0
 2. Violet Evergarden
@@ -36,16 +36,13 @@ Animes I Most Recommend in Order:
 5. Endro~!
 6. HYOUKA
 7. Puella Magi Madoka Magica
-8. CLANNAD ~AFTER STORY~
 
-Other Really Good Animes:
+Other good animes:
 
 + Urara Meirocho
-
 + WorldEnd
-
 + Bocchi the Rock!
-
++ CLANNAD ~AFTER STORY~
 + Angel Beats!
 
 ## Puzzle Games
