@@ -11,4 +11,4 @@ redirect_from:
 
   - Fall 2022, Tsinghua University
 
-  - Graduate-Level algorithm course, instructed by Prof. Ran Duan.
+  - Graduate-Level algorithm course, instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/duanr/).
