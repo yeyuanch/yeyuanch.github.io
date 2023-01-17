@@ -16,8 +16,7 @@ During the spring and summer of 2022, I was fortunate to visit the wonderful [th
 
 I love theoretical thinking, for both research problems and IMO-style questions, also puzzle games for fun.
 
-### About my website
-My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages. 
 
-The website is still in progress.
+
+My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages. The website is still in progress.
 
