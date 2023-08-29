@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here is a list for my publications. For course projects, please visit [this link](/../posts/2023/1/course-pj/).
+Here is a list for my publications.
 
 ## Manuscript / In submission
 
@@ -15,5 +15,5 @@ Here is a list for my publications. For course projects, please visit [this link
 
 Zhiyi Huang, Yaowei Long, Thatchaphol Saranurak, Benyu Wang
 
-**To appear on STOC 2023**
+**STOC 2023**
 
