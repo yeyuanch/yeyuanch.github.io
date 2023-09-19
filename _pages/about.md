@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! -Benyu Wang"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
