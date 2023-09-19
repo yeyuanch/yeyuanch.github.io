@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Welcome! -Benyu Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ I am currently a PhD student at University of Michigan and luckily being advised
 
 During the spring and summer of 2022, I visited the wonderful [theory group](https://cse.engin.umich.edu/research/research-areas/theory-of-computation/) of UMich and worked closely with [Prof. Seth Pettie](https://web.eecs.umich.edu/~pettie/) and [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/).
 
-I love theoretical thinking, for both research problems and IMO-style questions, also puzzle games for fun.
+I love theoretical thinking, for both research problems and ICPC- or IMO- style questions, also puzzle games for fun.
 
 
 

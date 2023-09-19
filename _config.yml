@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benyu Wang"
+  name             : "Benyu Wang（王本宇）"
   avatar           : "benyuw19.jpg"
-  bio              : "Yao Class, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "University of Michigan"
+  location         : "Ann Arbor, US"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "benyuw19@gmail.com"
+  email            : "benyuw@umich.edu"
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

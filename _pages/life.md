@@ -5,13 +5,11 @@ permalink: /life/
 author_profile: true
 ---
 
-This page is still under construction.
-
 ## Food
 
-- Everything local in China, especially food in Shandong, Hunan and Shanghai.
+- Everything local in China, especially food in Shandong, Hunan (spicy) and Shanghai.
 
-- Everything non-Chinese in the US, especially burgers, Japanese food, and Indian food.
+- Everything non-Chinese in the US, especially burgers and Indian food.
 
 - Fried chicken in KFC, which is the most consistent and delicious thing in China and in the US.
 
@@ -25,33 +23,23 @@ This page is still under construction.
 
 ## Animes
 
-- I think I am not typically an expert about animes, but just let me recommend some.
+- I am not typically an expert about animes, but just let me recommend some.
 
-- Animes I most recommend in order:
-  1. Steins; Gate & Steins; Gate 0
+- Animes I most recommend in (weak) order:
+  1. Steins; Gate (0)
   2. Violet Evergarden
   3. From The New World
-  4. planetarian ~the reverie of a little planet~
-  5. Endro~!
-  6. HYOUKA
-  7. Puella Magi Madoka Magica
+  4. Neon Genesis Evangelion
+  5. planetarian ~the reverie of a little planet~
+  6. Endro~!
+  7. BanG Dream! It's MyGO!!!!!
+  8. Puella Magi Madoka Magica
+  9. Bloom Into You
 
 + Other good animes:
   - Urara Meirocho
+  - Plastic Memories
   - WorldEnd
-  - Bocchi the Rock!
   - CLANNAD ~AFTER STORY~
   - Angel Beats!
-
-## Puzzle Games
-
-- IMO (?)
-- 14 Variants of Minesweeper
-
-+ Patrick's Parabox
-
-+ Cypher
-
-+ Gorogoa
-
-+ Tabletop Simulator (?)
+  - HYOUKA
