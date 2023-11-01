@@ -7,11 +7,23 @@ author_profile: true
 
 ## Food
 
-- Everything local in China, especially food in Shandong, Hunan (spicy) and Shanghai.
+- Most things local in China, especially food in Shandong, Hunan (spicy) and Shanghai.
 
-- Everything non-Chinese in the US, especially burgers and Indian food.
+- Most things non-Chinese in the US, especially burgers and Indian food.
 
-- Fried chicken in KFC, which is the most consistent and delicious thing in China and in the US.
+- Fried chicken in KFC, which is the most consistent flavor in China and in the US.
+
+## Puzzle Games
+
+- IMO / ICPC (?)
+
+- Baba is you
+
+- Patrick's Parabox
+
+- 14 Minesweeper Variants
+
+- A=B
 
 ## Rhythm Games
 
@@ -23,7 +35,7 @@ author_profile: true
 
 ## Animes
 
-- I am not typically an expert about animes, but just let me recommend some.
+- Let me recommend some animes.
 
 - Animes I most recommend in (weak) order:
   1. Steins; Gate (0)
