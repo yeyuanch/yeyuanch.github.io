@@ -7,7 +7,7 @@ redirect_from:
   - /teach
 ---
 
-Below are my teaching experiences.
+My teaching experiences.
 
 ### Teaching Assistant, Design and Analysis of Algorithms
 

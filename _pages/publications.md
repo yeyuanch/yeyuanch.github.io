@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here is a list for my publications. Unless stated otherwise, author names are in **alphabetical order**. 
+A list for my publications.
+
+Unless stated otherwise, author names are in **alphabetical order**. 
 
 ## Manuscript / In submission
 

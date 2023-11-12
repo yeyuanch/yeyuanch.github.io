@@ -31,7 +31,7 @@ author_profile: true
 
 - See my [best score](/../images/testify.jpg) and also my [favorite song](/../images/corps.jpg) from the game [Arcaea](https://arcaea.lowiro.com/). I am a top-200 player in Arcaea. 
 
-- Also see a [poster](/../images/tusile.pdf) I made for a series of rhythm game cups in Tsinghua University.
+- Also see a [poster](/../images/tusile.pdf) (in Chinese) that I made for a series of rhythm game cups in Tsinghua University.
 
 ## Animes
 

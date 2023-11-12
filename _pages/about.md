@@ -18,5 +18,5 @@ I love theoretical thinking, for both research problems and ICPC- or IMO- style 
 
 
 
-My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages. The website is still in progress.
+My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages.
 
