@@ -13,9 +13,11 @@ author_profile: true
 
 - Fried chicken in KFC, which is the most consistent flavor in China and in the US.
 
-## Puzzle Games
+- Traditional Japanese food are too simply flavored (and taste similar). I prefer Yoshinoya and Matsuya.
 
-- IMO / ICPC (?)
+- I can't say anything special for Bulgarian food, but they really make good food.
+
+## Puzzle Games
 
 - Baba is you
 
@@ -23,7 +25,11 @@ author_profile: true
 
 - 14 Minesweeper Variants
 
+- Bean and nothingness (recommended by Yeyuan Chen)
+
 - A=B
+
+- IMO / ICPC (?)
 
 ## Rhythm Games
 
