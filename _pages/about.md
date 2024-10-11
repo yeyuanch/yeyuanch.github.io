@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I'm a Ph.D student at University of Michigan, Ann Arbor, fortunately advised by [Mahdi Cheraghchi](https://mahdi.ch/). I'm interested in coding theory, combinatorics and computational complexity. In my undergrad, I also did machine learning theory.
+I'm Yeyuan Chen, a Ph.D student at University of Michigan, Ann Arbor, fortunately advised by [Mahdi Cheraghchi](https://mahdi.ch/). I'm interested in coding theory, combinatorics and computational complexity. In my undergrad, I also did machine learning theory.
 
 
 
