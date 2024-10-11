@@ -6,14 +6,14 @@ main:
   # - title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   # - title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /posts/
+  #- title: "Blog Posts"
+  #  url: /posts/
 
   # - title: "Problems"
   #   url: /problems/
@@ -22,8 +22,8 @@ main:
     url: /cv/
 
 
-  - title: "Life"
-    url: /life/
+  - title: "Non-academic"
+    url: /nonacademic/
     
   # - title: "Guide"
   #   url: /markdown/
