@@ -20,7 +20,7 @@ Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 **Submitted**
 
 
-### The Gap Between Greedy Algorithm and Minimum Multiplicative Spanner [comming soon!]
+### The Gap Between Greedy Algorithm and Minimum Multiplicative Spanner [[linke]](https://arxiv.org/pdf/2411.01486)
 
 Yeyuan Chen
 
