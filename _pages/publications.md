@@ -33,6 +33,8 @@ Yeyuan Chen
 
 **SODA 2025**
 
+<font color=red>Significant improvent by [HLM^+24](https://arxiv.org/abs/2411.11627)</font>
+
 
 ### Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs [[link]](https://arxiv.org/abs/2311.01647)
 
