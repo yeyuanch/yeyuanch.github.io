@@ -33,7 +33,7 @@ Yeyuan Chen
 
 **SODA 2025**
 
-**Significant improvement by [HLM+24](https://arxiv.org/abs/2411.11627)**
+**The third main theorem was significant improved by [HLM+24](https://arxiv.org/abs/2411.11627)**
 
 ### Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs [[link]](https://arxiv.org/abs/2311.01647)
 
