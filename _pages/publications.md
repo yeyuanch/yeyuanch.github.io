@@ -17,7 +17,7 @@ science, authors are usually sorted in alphabetical order.
 
 Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
-**Submitted**
+**STOC 2025**
 
 
 ### The Gap Between Greedy Algorithm and Minimum Multiplicative Spanner [[link]](https://arxiv.org/abs/2411.01486)
