@@ -27,7 +27,7 @@ Yeyuan Chen
 **Submitted**
 
 
-### Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets 
+### Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets [[link]](https://arxiv.org/abs/2410.07061)
 
 Yeyuan Chen
 
