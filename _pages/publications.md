@@ -47,7 +47,7 @@ Yeyuan Chen, [Dingmin Wang](https://www.dingmin.wang/)
 
 Yeyuan Chen, [Yizhi Huang](https://about.yizhihuang.org/), [Jiatu Li](https://ljt12138.github.io/), [Hanlin Ren](https://hanlin-ren.github.io/)
 
-**STOC 2023**
+**STOC 2023**  [[video1](https://www.youtube.com/watch?v=pd45Av1iTlw)][[video2](https://www.youtube.com/watch?v=YqMPLX6wro4)][[video3](https://vimeo.com/user39621409/review/772183410/1201f3a1d4)]
 
 
 ### Efficient Embeddings of Logical Variables for Query Answering over Incomplete Knowledge Graphs [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25588/25360)
