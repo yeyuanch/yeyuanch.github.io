@@ -13,7 +13,7 @@ A list for my publications.
 Unless otherwise stated, all authors contribute equally to the project. For those papers in theoretical computer
 science, authors are usually sorted in alphabetical order.
 
-### Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound [[link]](https://arxiv.org/abs/2408.15925)
+### Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound [[link]](https://arxiv.org/abs/2408.15925)[[slides for general CS audiences]](https://yeyuanch.github.io/files/FRS_presentation.pptx)
 
 Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
@@ -27,13 +27,13 @@ Yeyuan Chen
 **Submitted**
 
 
-### Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets [[link]](https://www.arxiv.org/abs/2410.07061)
+### Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets [[link]](https://www.arxiv.org/abs/2410.07061)[[slides1]](https://yeyuanch.github.io/files/soda_pre.pptx)[[slides combining HMMP24/HLM+25]](https://yeyuanch.github.io/files/pre.pptx)
 
 Yeyuan Chen
 
 **SODA 2025**
 
-**The third main theorem was significantly improved by [HLM+24](https://arxiv.org/abs/2411.11627)**
+**The third main theorem was significantly improved by [HLM+25](https://arxiv.org/abs/2411.11627)**
 
 ### Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs [[link]](https://arxiv.org/abs/2311.01647)
 
