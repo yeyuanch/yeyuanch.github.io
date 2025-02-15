@@ -27,7 +27,7 @@ Yeyuan Chen
 **Submitted**
 
 
-### Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets [[link](https://www.arxiv.org/abs/2410.07061)][[slides1](https://yeyuanch.github.io/files/soda_pre.pptx)][[slides](https://yeyuanch.github.io/files/pre.pptx) combining [HMMP24](https://arxiv.org/abs/2302.01212)/[HLM+25](https://arxiv.org/abs/2411.11627)]
+### Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets 
 
 Yeyuan Chen
 
@@ -38,16 +38,16 @@ Yeyuan Chen
 
 ### Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs [[link]](https://arxiv.org/abs/2311.01647)
 
-Yeyuan Chen, [Dingmin Wang](https://www.dingmin.wang/)
+Yeyuan Chen, [Dingmin Wang](https://www.dingmin.wang)
 
-**NeurIPS 2023**
+**NeurIPS 2023**  [[poster](https://yeyuanch.github.io/files/poster.png)]
 
 
 ### Range avoidance, remote point, and hard partial truth table via satisfying-pairs algorithms [[link]](https://eccc.weizmann.ac.il/report/2023/072/)
 
 Yeyuan Chen, [Yizhi Huang](https://about.yizhihuang.org/), [Jiatu Li](https://ljt12138.github.io/), [Hanlin Ren](https://hanlin-ren.github.io/)
 
-**STOC 2023**  [[video1](https://www.youtube.com/watch?v=pd45Av1iTlw)][[video2](https://www.youtube.com/watch?v=YqMPLX6wro4)][[video3](https://vimeo.com/user39621409/review/772183410/1201f3a1d4)]
+**STOC 2023**  [[video1](https://www.youtube.com/watch?v=pd45Av1iTlw)][[video2](https://www.youtube.com/watch?v=YqMPLX6wro4)][[video3](https://vimeo.com/user39621409/review/772183410/1201f3a1d4)][[slides1](https://yeyuanch.github.io/files/slides_meta-complexity_avoidance.pptx)][[slides2](https://yeyuanch.github.io/files/slides_yaoclass_avoidance.pptx)][[slides3](https://yeyuanch.github.io/files/slides_meta-complexity_avoidance.pptx)]
 
 
 ### Efficient Embeddings of Logical Variables for Query Answering over Incomplete Knowledge Graphs [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25588/25360)
