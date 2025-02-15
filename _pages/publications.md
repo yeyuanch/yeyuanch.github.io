@@ -13,11 +13,11 @@ A list for my publications.
 Unless otherwise stated, all authors contribute equally to the project. For those papers in theoretical computer
 science, authors are usually sorted in alphabetical order.
 
-### Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound [[link](https://arxiv.org/abs/2408.15925)][[slides](https://yeyuanch.github.io/files/FRS_presentation.pptx) for general CS audiences]
+### Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound [[link](https://arxiv.org/abs/2408.15925)]
 
 Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
-**STOC 2025**
+**STOC 2025**   [[slides](https://yeyuanch.github.io/files/FRS_presentation.pptx) for general CS audiences]
 
 
 ### The Gap Between Greedy Algorithm and Minimum Multiplicative Spanner [[link]](https://arxiv.org/abs/2411.01486)
@@ -31,7 +31,8 @@ Yeyuan Chen
 
 Yeyuan Chen
 
-**SODA 2025**
+**SODA 2025**  [[slides1](https://yeyuanch.github.io/files/soda_pre.pptx)][[slides](https://yeyuanch.github.io/files/pre.pptx) combining [HMMP24](https://arxiv.org/abs/2302.01212)/[HLM+25](https://arxiv.org/abs/2411.11627)]
+
 
 **The third main theorem was significantly improved by [HLM+25](https://arxiv.org/abs/2411.11627)**
 
