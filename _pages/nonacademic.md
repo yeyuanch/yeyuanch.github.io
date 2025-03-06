@@ -9,15 +9,9 @@ QQ: 1015769479
 
 Twitter: @www99619961
 
-An incomplete list of AVG games I played: [vndb](https://vndb.org/u218336/ulist?vnlist=1)
-
-bangumi: [www](https://bangumi.tv/user/683479)
-
 Codeforces: [docriz](https://codeforces.com/profile/docriz)
 
 Atcoder: [hdmmblz](https://atcoder.jp/users/HDMMBLZ)
-
-Steam: [www](https://steamcommunity.com/id/etsregsgfzdfaef/)
 
 bilibili: [_Komeiji_Koishi](https://space.bilibili.com/8799220)
 
