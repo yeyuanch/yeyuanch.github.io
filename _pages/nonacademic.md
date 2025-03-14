@@ -7,8 +7,6 @@ author_profile: true
 
 QQ: 1015769479
 
-Twitter: @www99619961
-
 Codeforces: [docriz](https://codeforces.com/profile/docriz)
 
 Atcoder: [hdmmblz](https://atcoder.jp/users/HDMMBLZ)
