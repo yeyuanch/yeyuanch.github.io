@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google"
+  provider               :  "custom"
   google:
     tracking_id          : "G-13BXCZJ3WM"
 
