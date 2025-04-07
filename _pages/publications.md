@@ -13,6 +13,12 @@ A list for my publications.
 Unless otherwise stated, all authors contribute equally to the project. For those papers in theoretical computer
 science, authors are usually sorted in alphabetical order.
 
+### Optimal Erasure Codes and Codes on Graphs [[link](https://arxiv.org/abs/2504.03090)]
+
+Yeyuan Chen, [Mahdi Cheraghchi](https://mahdi.ch/), [Nikhil Shagrithaya](https://nikhilshagri.github.io/)
+
+**Preprint**
+
 ### Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound [[link](https://arxiv.org/abs/2408.15925)]
 
 Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
@@ -24,7 +30,7 @@ Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
 Yeyuan Chen
 
-**Submitted**
+**Preprint**
 
 
 ### Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets [[link]](https://arxiv.org/abs/2410.07061)
