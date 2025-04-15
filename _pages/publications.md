@@ -13,6 +13,13 @@ A list for my publications.
 Unless otherwise stated, all authors contribute equally to the project. For those papers in theoretical computer
 science, authors are usually sorted in alphabetical order.
 
+### Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors [[link](https://arxiv.org/abs/2504.10399)]
+
+[Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
+
+*Preprint*
+
+
 ### Optimal Erasure Codes and Codes on Graphs [[link](https://arxiv.org/abs/2504.03090)]
 
 Yeyuan Chen, [Mahdi Cheraghchi](https://mahdi.ch/), [Nikhil Shagrithaya](https://nikhilshagri.github.io/)
