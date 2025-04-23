@@ -32,6 +32,8 @@ Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
 *STOC 2025 Best Student Paper*   [[slides](https://yeyuanch.github.io/files/FRS_presentation.pptx) for general CS audiences][[slides](https://yeyuanch.github.io/files/pku.pdf)][Nice [exposition](https://eccc.weizmann.ac.il/report/2025/015/) combining [KRSW18](https://arxiv.org/abs/1805.01498)/[Tam24](https://arxiv.org/abs/2312.17097)/[Sri25](https://arxiv.org/abs/2410.09031)]
 
+Alphabet size improved to constant by [JMST25](https://arxiv.org/abs/2502.07308)
+
 
 ### The Gap Between Greedy Algorithm and Minimum Multiplicative Spanner [[link]](https://arxiv.org/abs/2411.01486)
 
@@ -47,7 +49,7 @@ Yeyuan Chen
 *SODA 2025*  [[slides1](https://yeyuanch.github.io/files/soda_pre.pptx)][[slides](https://yeyuanch.github.io/files/pre.pptx) combining [HMMP24](https://arxiv.org/abs/2302.01212)/[HLM+25](https://arxiv.org/abs/2411.11627)]
 
 
-The third main theorem was significantly improved by [HLM+25](https://arxiv.org/abs/2411.11627)
+The third main theorem was improved by [HLM+25](https://arxiv.org/abs/2411.11627), and then [HLM+25b](https://arxiv.org/abs/2504.15087) finally achieved two-sided lossless expanders for linear-sized sets. 
 
 ### Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs [[link]](https://arxiv.org/abs/2311.01647)
 
