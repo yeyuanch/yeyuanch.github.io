@@ -30,7 +30,9 @@ Yeyuan Chen, [Mahdi Cheraghchi](https://mahdi.ch/), [Nikhil Shagrithaya](https:/
 
 Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
-*STOC 2025 Best Student Paper*   [[slides](https://yeyuanch.github.io/files/FRS_presentation.pptx) for general CS audiences][[slides1](https://yeyuanch.github.io/files/pku.pdf)][[slides2](https://yeyuanch.github.io/files/yao_seminar.pptx)][Nice [exposition](https://eccc.weizmann.ac.il/report/2025/015/) combining [KRSW18](https://arxiv.org/abs/1805.01498)/[Tam24](https://arxiv.org/abs/2312.17097)/[Sri25](https://arxiv.org/abs/2410.09031)]
+*STOC 2025 Best Student Paper,*  *Invited to SICOMP special issue*
+
+[[slides](https://yeyuanch.github.io/files/FRS_presentation.pptx) for general CS audiences][[slides1](https://yeyuanch.github.io/files/pku.pdf)][[slides2](https://yeyuanch.github.io/files/yao_seminar.pptx)][Nice [exposition](https://eccc.weizmann.ac.il/report/2025/015/) combining [KRSW18](https://arxiv.org/abs/1805.01498)/[Tam24](https://arxiv.org/abs/2312.17097)/[Sri25](https://arxiv.org/abs/2410.09031)]
 
 Alphabet size improved to constant by [JMST25](https://arxiv.org/abs/2502.07308)
 
