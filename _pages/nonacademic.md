@@ -5,13 +5,9 @@ permalink: /nonacademic/
 author_profile: true
 ---
 
-QQ: 1015769479
-
 Codeforces: [docriz](https://codeforces.com/profile/docriz)
 
 Atcoder: [hdmmblz](https://atcoder.jp/users/HDMMBLZ)
-
-bilibili: [_Komeiji_Koishi](https://space.bilibili.com/8799220)
 
 Touhou MoF(东方风神录) Lunatic No Bomb: [video](https://www.bilibili.com/video/BV1ZU4y1L78T)
 
