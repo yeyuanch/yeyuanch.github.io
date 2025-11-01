@@ -13,6 +13,20 @@ A list for my publications.
 Unless otherwise stated, all authors contribute equally to the project. For those papers in theoretical computer
 science, authors are usually sorted in alphabetical order.
 
+### Combinatorial Bounds for List Recovery via Discrete Brascamp--Lieb Inequalities [[link](https://arxiv.org/abs/2510.13775)]
+
+[Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
+
+*Preprint*
+
+
+### From Random to Explicit via Subspace Designs With Applications to Local Properties and Matroids [[link](https://arxiv.org/abs/2510.13777)][[ECCC](https://eccc.weizmann.ac.il/report/2025/146/)]
+
+[Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
+
+*Preprint*
+
+
 ### Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors [[link](https://arxiv.org/abs/2504.10399)]
 
 [Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
