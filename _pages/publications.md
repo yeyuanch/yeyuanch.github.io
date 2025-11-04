@@ -41,7 +41,7 @@ Yeyuan Chen, [Mahdi Cheraghchi](https://mahdi.ch/), [Nikhil Shagrithaya](https:/
 *Preprint*
 
 ### Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound [[link](https://arxiv.org/abs/2408.15925)] 
-(A [genneralization](https://yeyuanch.github.io/files/folded_linear_lower_bound%20(1).pdf) of the lower bound result to folded linear codes (additive codes))
+(A [generalization](https://yeyuanch.github.io/files/folded_linear_lower_bound%20(1).pdf) of the lower bound result to folded linear codes (additive codes))
 
 Yeyuan Chen, [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
