@@ -17,14 +17,14 @@ science, authors are usually sorted in alphabetical order.
 
 [Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
-*Preprint*
+*STOC 2026*
 
 
 ### From Random to Explicit via Subspace Designs With Applications to Local Properties and Matroids [[link](https://arxiv.org/abs/2510.13777)][[ECCC](https://eccc.weizmann.ac.il/report/2025/146/)]
 
 [Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
-*Preprint*
+*STOC 2026*
 
 
 ### Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors [[link](https://arxiv.org/abs/2504.10399)]
