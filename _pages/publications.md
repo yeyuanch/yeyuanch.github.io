@@ -13,6 +13,14 @@ A list for my publications.
 Unless otherwise stated, all authors contribute equally to the project. For those papers in theoretical computer
 science, authors are usually sorted in alphabetical order.
 
+
+### Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors [[link](https://arxiv.org/abs/2504.10399)]
+
+[Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
+
+*ICALP 2026*
+
+
 ### Combinatorial Bounds for List Recovery via Discrete Brascamp--Lieb Inequalities [[link](https://arxiv.org/abs/2510.13775)]
 
 [Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
@@ -25,13 +33,6 @@ science, authors are usually sorted in alphabetical order.
 [Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
 
 *STOC 2026*
-
-
-### Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors [[link](https://arxiv.org/abs/2504.10399)]
-
-[Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
-
-*Preprint*
 
 
 ### Optimal Erasure Codes and Codes on Graphs [[link](https://arxiv.org/abs/2504.03090)]
@@ -87,4 +88,17 @@ Yeyuan Chen, [Yizhi Huang](https://about.yizhihuang.org/), [Jiatu Li](https://lj
 [Dingmin Wang](https://www.dingmin.wang/), Yeyuan Chen, [Bernardo Cuenca Grau](https://www.cs.ox.ac.uk/people/bernardo.cuencagrau/)
 
 *AAAI 2023*
+
+
+
+## My Eureka moments in unexpected places (maybe incomplete)
+
+May 10th 2024: After playing [Chaos;Child](https://en.wikipedia.org/wiki/Chaos;Child) at the amazing [Video Game Room in Shapiro Library](https://www.lib.umich.edu/locations-and-hours/computer-and-video-game-archive)
+
+
+Jan 25th 2025: On the flight to [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/)
+
+
+April 25th 2025: On [Dingyu Wang](https://antiquewang.com/)'s car when returning from [YPBOR F.M 颐宝筵川菜坊](https://maps.app.goo.gl/4PjtTkM2EZehWcDe8?g_st=ic)
+
 
