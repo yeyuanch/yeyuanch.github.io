@@ -17,6 +17,19 @@ A previous blog that I no longer update (in Chinese): [hdmmblz](https://hdmmblz.
 
 ACM-ICPC/CCPC complete records: [zhihu](https://zhuanlan.zhihu.com/p/599112404)
 
+## My Eureka moments in unexpected places (maybe incomplete)
+
+May 10th 2024: After playing [Chaos;Child](https://en.wikipedia.org/wiki/Chaos;Child) at the amazing [Video Game Room in Shapiro Library](https://www.lib.umich.edu/locations-and-hours/computer-and-video-game-archive)
+
+
+Jan 25th 2025: On the flight to [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/)
+
+
+April 25th 2025: On [Dingyu Wang](https://antiquewang.com/)'s car when returning from [YPBOR F.M 颐宝筵川菜坊](https://maps.app.goo.gl/4PjtTkM2EZehWcDe8?g_st=ic)
+
+
+
+
 An incomplete list of Algorithm Competition Problems I set:
 
 - [2020 Multi-University Training Contest 7](https://acm.hdu.edu.cn/search.php?field=problem&key=2020+Multi-University+Training+Contest+7&source=1&searchmode=source) Problem ABCEFH
