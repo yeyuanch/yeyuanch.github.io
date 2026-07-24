@@ -34,6 +34,8 @@ science, authors are usually sorted in alphabetical order.
 
 *STOC 2026*
 
+[[slides](https://yeyuanch.github.io/files/bcdz.pptx)]
+
 
 ### Optimal Erasure Codes and Codes on Graphs [[link](https://arxiv.org/abs/2504.03090)]
 
