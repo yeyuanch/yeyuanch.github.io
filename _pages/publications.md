@@ -14,6 +14,13 @@ Unless otherwise stated, all authors contribute equally to the project. For thos
 science, authors are usually sorted in alphabetical order.
 
 
+### Bounds and Limitations on Codes Achieving List Recovery Capacity [[link](https://arxiv.org/abs/2607.19576)]
+
+[Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Aaron Putterman](https://www.louieputterman.com/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
+
+*SODA 2027*
+
+
 ### Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors [[link](https://arxiv.org/abs/2504.10399)]
 
 [Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Manik Dhar](https://dharmanik.github.io/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
