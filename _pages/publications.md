@@ -14,6 +14,13 @@ Unless otherwise stated, all authors contribute equally to the project. For thos
 science, authors are usually sorted in alphabetical order.
 
 
+### Optimal Erasure Codes and Codes on Graphs [[link](https://arxiv.org/abs/2504.03090)]
+
+Yeyuan Chen, [Mahdi Cheraghchi](https://mahdi.ch/), [Nikhil Shagrithaya](https://nikhilshagri.github.io/)
+
+*ITCS 2027*
+
+
 ### Bounds and Limitations on Codes Achieving List Recovery Capacity [[link](https://arxiv.org/abs/2607.19576)]
 
 [Joshua Brakensiek](https://jbrakensiek.github.io/), Yeyuan Chen, [Aaron Putterman](https://www.louieputterman.com/), [Zihan Zhang](https://zihanzhang.owlstown.net/)
@@ -43,12 +50,6 @@ science, authors are usually sorted in alphabetical order.
 
 [[slides](https://yeyuanch.github.io/files/bcdz.pptx)]
 
-
-### Optimal Erasure Codes and Codes on Graphs [[link](https://arxiv.org/abs/2504.03090)]
-
-Yeyuan Chen, [Mahdi Cheraghchi](https://mahdi.ch/), [Nikhil Shagrithaya](https://nikhilshagri.github.io/)
-
-*Preprint*
 
 ### Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound [[link](https://arxiv.org/abs/2408.15925)] 
 (A [generalization](https://yeyuanch.github.io/files/folded_linear_lower_bound%20(1).pdf) of the lower bound result to folded linear codes (additive codes))
